@@ -6,7 +6,7 @@ A portable static website for the proposed workshop **Engineering Intelligence: 
 
 Open `index.html` in a browser with an internet connection. The accompanying `Engineering_Intelligence_Website.html` is a single-file review copy with the same content and styling.
 
-The website contains six confirmed invited speakers and three confirmed organizers from the current proposal. It clearly marks workshop acceptance, the assigned date, and contribution deadlines as pending. Mark Fuge is available on May 28 only. Talk titles remain tentative. The order of speaker cards does not assign speakers to particular sessions or talk times.
+The website contains six confirmed invited speakers and three confirmed organizers from the current proposal. It clearly marks workshop acceptance, the assigned date, and contribution deadlines as pending. Talk titles remain tentative. The order of speaker cards does not assign speakers to particular sessions or talk times.
 
 ## Recommended hosting: GitHub Pages
 
@@ -33,7 +33,7 @@ Nothing has been published, no repository has been created, and no domain has be
 - **Interactions:** `script.js` handles the mobile menu, engineering-loop captions, program filters, and accessible native dialogs.
 - **Graphics:** The engineering wireframe is original inline SVG in `index.html`. It is an illustration, not a simulation result. The icon is in `assets/`.
 
-When acceptance is announced, update the hero, date/status strip, footer, contribution notice, page title, and metadata. Replace the tentative contribution dates and add the real submission link once available. Do not imply that workshop proposal submission dates are participant paper deadlines. Keep Mark's availability note until the assigned day is known.
+When acceptance is announced, update the hero, date/status strip, footer, contribution notice, page title, and metadata. Replace the tentative contribution dates and add the real submission link once available. Do not imply that workshop proposal submission dates are participant paper deadlines.
 
 ## Portraits
 
