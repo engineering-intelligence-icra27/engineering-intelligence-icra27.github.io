@@ -1,0 +1,104 @@
+{
+  "speakers": [
+    {
+      "id": "mark-fuge",
+      "name": "Mark Fuge",
+      "affiliation": "ETH Zurich",
+      "topic": "Generative engineering design",
+      "title": "Machines that learn to design, build, and test other machines",
+      "bio": "Mark Fuge is Professor of Artificial Intelligence in Engineering Design and director of the IDEAL Lab at ETH Zurich. His research develops learned geometry representations and generative design methods that incorporate physical performance and manufacturing constraints.",
+      "url": "https://ideal.ethz.ch/",
+      "image": "https://mavt.ethz.ch/news-and-events/d-mavt-news/2024/06/ki-boost-fuer-d-mavt/_jcr_content/articleLeadImage/image.imageformat.carousel.1166563176.jpg",
+      "position": "50% 30%",
+      "note": "Confirmed for May 28 only."
+    },
+    {
+      "id": "kristina-shea",
+      "name": "Kristina Shea",
+      "affiliation": "ETH Zurich",
+      "topic": "Design & digital fabrication",
+      "title": "AI-Driven Engineering Design and Digital Fabrication",
+      "bio": "Kristina Shea is Professor of Engineering Design and Computing at ETH Zurich. Her research connects design synthesis and optimization with additive manufacturing, multi-material fabrication, and 4D printing, including programmable structures and soft robotic mechanisms.",
+      "url": "https://edac.ethz.ch/",
+      "image": "https://idmf.ethz.ch/the-institute/EDAC.person_image.jpeg?persid=MTg2Mzcx",
+      "position": "50% 30%"
+    },
+    {
+      "id": "sha-yi",
+      "name": "Sha Yi",
+      "affiliation": "Physical Intelligence · NYU (incoming)",
+      "topic": "Robot hardware–policy co-design",
+      "title": "Learning to Design Robots",
+      "bio": "Sha Yi is a Member of Technical Staff at Physical Intelligence and an incoming Assistant Professor at New York University (2027). Her soft-gripper co-design work uses learned physics models to jointly optimize stiffness and grasp pose, connecting simulation, fabrication, and physical evaluation.",
+      "url": "https://yswhynot.github.io/",
+      "image": "https://yswhynot.github.io/assets/img/headshot_small.jpeg",
+      "position": "50% 30%"
+    },
+    {
+      "id": "ken-goldberg",
+      "name": "Ken Goldberg",
+      "affiliation": "University of California, Berkeley",
+      "topic": "Agentic robotics",
+      "title": "Agentic Robotics: From Code Generation to Physical Execution",
+      "bio": "Ken Goldberg is a Professor at the University of California, Berkeley, where he directs the AUTOLab, and Co-Founder and Chief Scientist of Ambi Robotics. His research spans manipulation, learning, and automation, including coding agents that combine engineering algorithms with learned perception and control.",
+      "url": "https://goldberg.berkeley.edu/",
+      "image": "https://goldberg.berkeley.edu/Ken-Goldberg-0-photo-1.8in-by-Chris-Michel.jpeg",
+      "position": "50% 30%",
+      "credit": "Portrait: Chris Michel."
+    },
+    {
+      "id": "mohi-khansari",
+      "name": "Mohi Khansari",
+      "affiliation": "Stanford University",
+      "topic": "Adaptive robotic manufacturing",
+      "title": "Embodied AI for Adaptive Manufacturing",
+      "bio": "Mohi Khansari is Director of Embodied AI at the Stanford Robotics Center and a Senior Research Engineer in Computer Science, leading its Manufacturing and Logistics initiative. His expertise spans robot learning, world models, and autonomous-system reasoning. Previously, he was Head of Robot Learning at 1X.",
+      "url": "https://profiles.stanford.edu/khansari",
+      "image": "https://images.squarespace-cdn.com/content/v1/66b6b61fc5e5030973bd431f/8be73f27-1523-4bf9-af0d-13da8dd67ba1/khansari_profilephoto.jpg",
+      "position": "50% 30%"
+    },
+    {
+      "id": "ted-xiao",
+      "name": "Ted Xiao",
+      "affiliation": "Prometheus",
+      "topic": "Foundation models & manufacturing",
+      "title": "Towards a Post-AGI Manufacturing Economy",
+      "bio": "Ted Xiao is a Founding Member of Technical Staff at Prometheus. Previously, he was a Staff Research Scientist and Technical Lead at Google DeepMind. His foundation-model research addresses physical reasoning and interaction, with contributions including Gemini Robotics, RT-2, and SayCan.",
+      "url": "https://tedxiao.me/",
+      "image": "https://tedxiao.me/images/profile.jpg",
+      "position": "50% 32%"
+    }
+  ],
+  "organizers": [
+    {
+      "id": "oier-mees",
+      "name": "Oier Mees",
+      "affiliation": "Prometheus · ETH Zurich",
+      "bio": "Robot learning & embodied AI",
+      "email": "oier.mees@inf.ethz.ch",
+      "url": "https://www.oiermees.com/",
+      "image": "https://www.oiermees.com/authors/admin/avatar_huf77bb6f3481ea674f51f312221d30a5e_499601_270x270_fill_q75_lanczos_center.jpg",
+      "position": "50% 35%"
+    },
+    {
+      "id": "daniel-ho",
+      "name": "Daniel Ho",
+      "affiliation": "Prometheus",
+      "bio": "Robotics evaluation & engineering automation",
+      "email": "daniel.ho@prometheus.co",
+      "url": "https://itsdanielho.com/",
+      "image": "https://itsdanielho.com/author/daniel-ho/avatar_hu838470591d6a8ae73317dfc1c276544d_167812_270x270_fill_q90_lanczos_center.jpg",
+      "position": "50% 30%"
+    },
+    {
+      "id": "amira-abdel-rahman",
+      "name": "Amira Abdel-Rahman",
+      "affiliation": "Cornell University",
+      "bio": "Inverse design & computational fabrication",
+      "email": "aa2953@cornell.edu",
+      "url": "https://aap.cornell.edu/people/amira-abdel-rahman/",
+      "image": "https://aap.cornell.edu/wp-content/uploads/2025/08/indexamira.png",
+      "position": "50% 28%"
+    }
+  ]
+}
