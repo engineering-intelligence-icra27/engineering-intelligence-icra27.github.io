@@ -66,6 +66,18 @@
       "url": "https://tedxiao.me/",
       "image": "https://tedxiao.me/images/profile.jpg",
       "position": "50% 32%"
+    },
+    {
+      "id": "marta-delia",
+      "name": "Marta D’Elia",
+      "affiliation": "Atomic Machines · Stanford University",
+      "topic": "Scientific machine learning & design",
+      "title": "To be announced",
+      "bio": "Marta D’Elia is Director of AI and ModSim at Atomic Machines and an Adjunct Professor at Stanford’s Institute for Computational and Mathematical Engineering. Her work brings scientific machine learning, optimization, generative design, and digital twins to micro-manufacturing.",
+      "url": "https://sites.google.com/site/martadeliawebsite",
+      "image": "https://sites.google.com/sitesv-images-rt/AMxu72vfP0joIvWWsY4AkeyWIPoPJgIjQmZAm3FSuzALaLmpTNBGxBNJeWiwQwomhkxlmfhavTZRP1lvbWerDf77zlJsTNBUWGyySO6MvFX9yZsxxiUXCH8hAXkE51kEDqlUCehXQReA_Xih5xoAqDVdmMa_f1nfoKimsnHwylN3I3srAtEZSHHKU1vHJ3Qm9KXbIhUOyxt_E1mCAzT7MHAXoXqvaC0jcruP2aNS055N1ug=w1280",
+      "position": "50% 30%",
+      "local_image": "assets/portraits/marta-delia.jpg"
     }
   ],
   "organizers": [
@@ -98,6 +110,32 @@
       "url": "https://aap.cornell.edu/people/amira-abdel-rahman/",
       "image": "https://aap.cornell.edu/wp-content/uploads/2025/08/indexamira.png",
       "position": "50% 28%"
+    },
+    {
+      "id": "adriana-schulz",
+      "name": "Adriana Schulz",
+      "affiliation": "Brown University · University of Washington",
+      "roles": [
+        "Associate Professor, Brown University",
+        "Affiliate Professor, University of Washington"
+      ],
+      "bio": "Computational design & fabrication",
+      "email": "adriana_schulz@brown.edu",
+      "url": "https://www.computationaldesign.group/adriana",
+      "image": "https://www.computationaldesign.group/images/profile/adriana-full.jpg",
+      "position": "50% 30%",
+      "local_image": "assets/portraits/adriana-schulz.jpg"
+    },
+    {
+      "id": "ping-tan",
+      "name": "Ping Tan",
+      "affiliation": "Hong Kong University of Science and Technology",
+      "bio": "Computer vision, graphics & robotics",
+      "url": "https://facultyprofiles.hkust.edu.hk/profiles.php?profile=ping-tan-pingtan",
+      "image": "https://researchportal.hkust.edu.hk/files-asset/610718/P000003310.jpg?f=jpg&w=160",
+      "position": "50% 30%",
+      "local_image": "assets/portraits/ping-tan.jpg",
+      "email": "pingtan@ust.hk"
     }
   ]
 }

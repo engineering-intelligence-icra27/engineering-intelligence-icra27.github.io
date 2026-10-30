@@ -6,7 +6,7 @@ A portable static website for the proposed workshop **Engineering Intelligence: 
 
 Open `index.html` in a browser with an internet connection. The accompanying `Engineering_Intelligence_Website.html` is a single-file review copy with the same content and styling.
 
-The website contains six confirmed invited speakers and three confirmed organizers from the current proposal. It clearly marks workshop acceptance, the assigned date, and contribution deadlines as pending. Talk titles remain tentative. The order of speaker cards does not assign speakers to particular sessions or talk times.
+The website contains seven confirmed invited speakers and five confirmed organizers. It clearly marks workshop acceptance, the assigned date, and contribution deadlines as pending. Talk titles remain tentative; Marta D’Elia’s title is to be announced. The order of speaker cards does not assign speakers to particular sessions or talk times.
 
 ## Recommended hosting: GitHub Pages
 
@@ -28,7 +28,7 @@ Nothing has been published, no repository has been created, and no domain has be
 
 ## Editing
 
-- **Content:** `index.html` contains the complete text, schedule, speaker cards, organizer cards, and speaker biography dialogs. Change a speaker's card and their matching dialog together. `people.json` records the current people and portrait sources; it is a source manifest, not a runtime database.
+- **Content:** `index.html` contains the complete text, schedule, speaker cards, organizer cards, and speaker biography dialogs. Change a speaker's card and their matching dialog together. `people.json` records the current people and portrait sources; it is a source manifest, not a runtime database. When adding a speaker, also add their card, biography dialog, and portrait credit in `index.html`, and update the invited-speaker count. The grid wraps automatically; talk allocations remain provisional while the lineup is finalized.
 - **Visual design:** `styles.css` contains colors, typography, responsive layouts, print styling, and reduced-motion support.
 - **Interactions:** `script.js` handles the mobile menu, engineering-loop captions, program filters, and accessible native dialogs.
 - **Graphics:** The engineering wireframe is original inline SVG in `index.html`. It is an illustration, not a simulation result. The icon is in `assets/`.
@@ -37,7 +37,7 @@ When acceptance is announced, update the hero, date/status strip, footer, contri
 
 ## Portraits
 
-All nine portraits use verified image URLs from public institutional or personal profiles. Images load from those external websites, so the review copy requires an internet connection to show the portraits. Each image has a stable initials fallback if its host is unavailable. Source profile links and Ken Goldberg's Chris Michel photo credit appear in the site's **Portrait credits** dialog.
+All twelve portraits are sourced from public institutional or personal profiles. The three newly added portraits are stored under `assets/portraits/`; their original URLs remain in `people.json`. The other images load from external websites, so an internet connection is required to show them. Each image has a stable initials fallback if its host is unavailable. Source profile links and Ken Goldberg's Chris Michel photo credit appear in the site's **Portrait credits** dialog.
 
 For a more durable public deployment, use locally hosted speaker-approved image files. `download_portraits.py` is an optional standard-library Python helper that downloads the current public portraits and updates image paths in `index.html` to local files. It never changes the source images. Run it from a machine with internet access:
 
@@ -55,4 +55,4 @@ No analytics, cookies, forms, tracking scripts, remote JavaScript, or network-lo
 
 ## Review checks
 
-JavaScript syntax, HTML structure, internal anchors, dialog targets, local assets, people counts, and program times were checked. A full browser visual check could not run in the build environment because a browser executable was unavailable and its download was blocked. Review the page in a browser before publishing, including portrait crops at mobile and desktop widths.
+JavaScript syntax, HTML structure, internal anchors, dialog targets, local assets, people counts, and program times were checked. The expanded desktop speaker and organizer sections, new portraits, and Marta D’Elia’s biography dialog were visually checked in Chrome. Mobile layouts should also be reviewed before publishing.

@@ -41,6 +41,7 @@ for person in people['speakers'] + people['organizers']:
         print(f"Kept remote portrait for {person['name']}: {error}", file=sys.stderr)
 
 index_path.write_text(html)
-print(f'Localized {9 - len(failed)} of 9 portraits. Source credits remain in the page.')
+total = len(people['speakers']) + len(people['organizers'])
+print(f'Localized {total - len(failed)} of {total} portraits. Source credits remain in the page.')
 if failed:
     sys.exit(1)
